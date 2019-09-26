@@ -1,0 +1,20 @@
+﻿<Window x:Class="AlertingConfigurationAppLib.AlertingConfigurtion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlertingConfigurationAppLib"
+        xmlns:configureBedMonitor="clr-namespace:ConfigurationControlLib.Views;assembly=ConfigurationControlLib"
+        mc:Ignorable="d"
+        Title="Alerting Configuration" Height="742.683" Width="800">
+    <ScrollViewer>
+        <StackPanel>
+            <Border DockPanel.Dock="Top" BorderBrush="LightBlue" Background="white"  BorderThickness="3">
+                <configureBedMonitor:BedConfigurationView></configureBedMonitor:BedConfigurationView>
+            </Border>
+            <Border DockPanel.Dock="Bottom">
+                <configureBedMonitor:MonitorConfigurationView></configureBedMonitor:MonitorConfigurationView>
+            </Border>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

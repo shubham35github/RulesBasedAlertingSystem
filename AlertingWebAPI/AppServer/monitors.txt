@@ -1,0 +1,8 @@
+{"Model":"Alerting Monitor","IsAssigned":false,"Id":"M26214"}
+{"Model":"Central Monitoring","IsAssigned":false,"Id":"M16493"}
+{"Model":"MX 400","IsAssigned":false,"Id":"M56651"}
+{"Model":"Avalon ","IsAssigned":false,"Id":"M18263"}
+{"Model":"we","IsAssigned":false,"Id":"M13188"}
+{"Model":"Afficia","IsAssigned":true,"Id":"M36754"}
+{"Model":"MX200","IsAssigned":true,"Id":"M41086"}
+{"Model":"Avalon","IsAssigned":true,"Id":"M74983"}

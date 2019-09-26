@@ -1,0 +1,12 @@
+{"Model":"Double","IsAssigned":false,"Id":"B66321"}
+{"Model":"abc","IsAssigned":false,"Id":"B51549"}
+{"Model":"single","IsAssigned":false,"Id":"B65734"}
+{"Model":"shubam","IsAssigned":false,"Id":"B19255"}
+{"Model":"jsr","IsAssigned":false,"Id":"B84882"}
+{"Model":"double","IsAssigned":false,"Id":"B81300"}
+{"Model":"single AC","IsAssigned":false,"Id":"B56142"}
+{"Model":"aws","IsAssigned":false,"Id":"B64430"}
+{"Model":"Single","IsAssigned":false,"Id":"B13107"}
+{"Model":"xyz","IsAssigned":true,"Id":"B94829"}
+{"Model":"Bed SIngle","IsAssigned":true,"Id":"B54261"}
+{"Model":"Double 2","IsAssigned":true,"Id":"B64198"}
